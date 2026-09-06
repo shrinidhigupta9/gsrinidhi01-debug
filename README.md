@@ -75,8 +75,8 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrinidhi-gupta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shrinidhi's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrinidhi-gupta&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=gsrinidhi01-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shrinidhi's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gsrinidhi01-debug&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
